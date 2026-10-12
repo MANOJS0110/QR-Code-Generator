@@ -11,7 +11,7 @@ A responsive, client-side web application built with vanilla HTML, CSS, and Java
 - **Responsive Interface:** Clean, mobile-friendly UI styled with CSS3.
 - **Universal Scanning:** Compatible with any standard mobile camera scanner or barcode app.
 
-#URL : http://localhost:8080
+#URL : http://localhost:5500/
 
 ---
 
